@@ -1,0 +1,17 @@
+{
+"manifest_version": 2,     
+"version": "1.1",               
+"name": "Whatsapp Anonymous Launcher",   
+"description": "Send WhatsApp messages to people not in your contacts",
+"icons": {
+    	"16": "images/wa.png",
+    	"48": "images/wa.png",
+    	"128": "images/wa.png"
+    },
+"browser_action":
+	{
+	"default_icon": "images/wa.png",
+    "default_popup": "popup.html"
+	}
+}
+
